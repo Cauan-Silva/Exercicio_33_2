@@ -1,11 +1,11 @@
-package Principal;
+package principal;
 
-import Clientes.Cliente;
-import Clientes.ClienteABC;
-import Clientes.ClienteXYZ;
-import Produtos.Produto;
-import Produtos.ProdutoABC;
-import Produtos.ProdutoXYZ;
+import clientes.Cliente;
+import clientes.ClienteABC;
+import clientes.ClienteXYZ;
+import produtos.Produto;
+import produtos.ProdutoABC;
+import produtos.ProdutoXYZ;
 import java.util.ArrayList;
 import java.util.List;
 

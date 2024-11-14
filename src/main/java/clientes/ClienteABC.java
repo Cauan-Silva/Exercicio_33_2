@@ -1,4 +1,4 @@
-package Clientes;
+package clientes;
 
 public class ClienteABC {
     public int codigo;
